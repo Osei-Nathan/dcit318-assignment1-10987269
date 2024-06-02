@@ -1,0 +1,14 @@
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.exe
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.deps.json
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.runtimeconfig.json
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.dll
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.pdb
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.dll
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\refint\GradeCalculator.dll
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.pdb
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\NATHAN OSEI\source\repos\dcit318-assignment1-10987269\GradeCalculator\GradeCalculator\obj\Debug\net8.0\ref\GradeCalculator.dll
